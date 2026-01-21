@@ -1,0 +1,7 @@
+adv run all
+adv apt run all
+apt run all
+apt return all
+adv compile makefile
+apt compile makefile
+   makefile
