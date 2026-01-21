@@ -1,0 +1,11 @@
+{
+"nnd_link": generate
+"mmd_link": generate
+"p": 1080p
+"respx": c="p"
+"ressize": 1920x1080
+"size": 1920x1080
+"shownicovideoloadingscreen?": false
+"render": renderman, source
+"settings": pc, repo, src, all, etc, all2, all3, all4
+}
